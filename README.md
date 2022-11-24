@@ -1,4 +1,4 @@
-## Oii, Eu sou Eduarda estudante de Front-end 👋
+## Oii, Eu sou Eduarda 👋
 
 
 - 🌱 Estudando React e Python ...
