@@ -1,9 +1,7 @@
 ## Oii, Eu sou Eduarda 👋
 
-
+- 💻 Estagiária Front-End ...
 - 🌱 Estudando React e Python ...
-- 🤞 Estagiária Front-End ...
-
 
 <div align="start">
   <a href="https://github.com/eduardalimad">
