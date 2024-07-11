@@ -1,18 +1,21 @@
-## Oii, Eu sou Eduarda 👋
+<h1 align="start">Olá, Eu sou Eduarda <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 👩🏽‍💻 Front End Developer
-- 📚 Cursando Graduação, Analise e Desenvolvimento de Sistemas 
+- 🔭 Eu estou atualmente trabalhando como dev frontend JR focado em VUE e TS.
+- 🌱 Eu estou atualmente aprendendo **ReactNative/Expo**
+- 📚 Cursando Graduação, Analise e Desenvolvimento de Sistemas
+- 📚 Técnico em Informática
 
 <div align="start">
   <a href="https://github.com/eduardalimad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardalimad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardalimad&layout=compact&langs_count=7&theme=dracula"/>
+  
 </div>
 
-## Tecnologias
+## Tecnologias e ferramentas
 <div style="display: inline_block"><br>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
