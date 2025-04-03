@@ -1,8 +1,8 @@
 <h1 align="start">Olá, Eu sou Eduarda <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔭 Eu estou atualmente trabalhando como dev frontend JR focado em VUE e TS.
-- 🌱 Eu estou atualmente aprendendo **ReactNative/Expo**
-- 📚 Cursando Graduação, Analise e Desenvolvimento de Sistemas
+- 🔭 Eu estou atualmente trabalhando como dev frontend focado em VUE e TS.
+- 🌱 Eu estou atualmente aprendendo **PHP**
+- 📚 Formada em Análise e Desenvolvimento de Sistemas
 - 📚 Técnico em Informática
 
 <div align="start">
