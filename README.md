@@ -1,7 +1,7 @@
 <h1 align="start">Olá, Eu sou Eduarda <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🔭 Eu estou atualmente trabalhando como dev frontend focado em VUE e TS.
-- 🌱 Eu estou atualmente aprendendo **PHP**
+- 🌱 Eu estou atualmente aprendendo **Next.js**
 - 📚 Formada em Análise e Desenvolvimento de Sistemas
 - 📚 Técnico em Informática
 
